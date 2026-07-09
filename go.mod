@@ -1,4 +1,4 @@
-module http
+module github.com/mailcache/http
 
 go 1.26.5
 
